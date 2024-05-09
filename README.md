@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hetvi panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvi0905&label=Profile%20views&color=0e75b6&style=flat" alt="hetvi0905" /> </p>
+ 
 
 - 🔭 I’m currently working on **E-commerce Website**
 
@@ -12,8 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://linkedin.com/in/linkedin.com/in/hetvi-panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hetvi-panchal" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
