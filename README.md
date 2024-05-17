@@ -4,11 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif"
  
 
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 💬 Ask me about **HTML CSS JS React Js Next Js**
-
-- 📫 How to reach me **hetvipanchal0905@gmail.com**
+🔭 I’m currently working on **E-commerce Website**
+💬 Ask me about **HTML CSS JS React Js Next Js**
+📫 How to reach me **hetvipanchal0905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
