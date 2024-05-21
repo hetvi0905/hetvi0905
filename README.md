@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hetvi panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
- 
-
 🔭 I’m currently working on **E-commerce Website**
 💬 Ask me about **HTML CSS JS React Js Next Js**
 📫 How to reach me **hetvipanchal0905@gmail.com**
