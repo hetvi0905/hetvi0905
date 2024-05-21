@@ -1,7 +1,7 @@
 ![logo](https://github.com/hetvi0905/hetvi0905/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Hetvi panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*F4t8-xz-b98ZcvEH.gif"
+
  
 
 🔭 I’m currently working on **E-commerce Website**
