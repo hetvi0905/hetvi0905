@@ -1,12 +1,11 @@
 ![logo](https://github.com/hetvi0905/hetvi0905/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Hetvi panchal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-🔭 I’m currently working on **E-commerce Website**
-💬 Ask me about **HTML CSS JS React Js Next Js**
+
+💬 Ask me about **React Js, Next Js, Html, CSS**
 📫 How to reach me **hetvipanchal0905@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 </p>
